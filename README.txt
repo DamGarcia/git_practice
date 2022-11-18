@@ -1,1 +1,1 @@
-Hello Git and GitHub
+Hello Git and GitHub - This is the practice READme.txt file that is within my local repository
